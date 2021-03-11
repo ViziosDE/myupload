@@ -1,0 +1,6 @@
+projectKey=python-myupload
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=python-myupload
+ceTaskId=AXgd_TeybEtEPbo1Cb7C
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXgd_TeybEtEPbo1Cb7C
